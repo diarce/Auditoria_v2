@@ -1,0 +1,4 @@
+# Pruebas
+-r requirements.txt
+pytest>=8
+scikit-learn>=1.3   # solo para contrastar el cálculo de kappa

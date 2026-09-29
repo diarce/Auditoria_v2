@@ -1,0 +1,5 @@
+id,nombre,ciudad,url_principal,url_alternativa,tipo_presencia,plataforma_cms,nivel_digital,robots_permite,estado_auditoria,fuente,notas_eticas,notas_metodologicas
+EJ001,Mayorista de ejemplo 1,Posadas,https://mayorista-1.example,,web_propia_ecommerce,desconocida,,,AUDITAR,ejemplo,Registro ficticio de ejemplo,Reemplazar por el universo real en data/privado/universo.csv
+EJ002,Mayorista de ejemplo 2,Posadas,https://mayorista-2.example,,web_propia_ecommerce,desconocida,,,AUDITAR,ejemplo,Registro ficticio de ejemplo,
+EJ003,Distribuidora de ejemplo 3,Posadas,,,solo_redes_sociales,,,,EXCLUIR_QA_INCLUIR_ANALISIS_CUALITATIVO,ejemplo,Sin canal de venta propio,
+EJ004,Distribuidora de ejemplo 4,Garupá,https://distribuidora-4.example,,web_propia_ecommerce,desconocida,,,AUDITAR,ejemplo,Registro ficticio de ejemplo,Fuera del municipio de Posadas: se informa como fuera de ámbito

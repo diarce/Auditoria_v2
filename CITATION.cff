@@ -1,0 +1,68 @@
+cff-version: 1.2.0
+message: >-
+  Si utiliza este software en su investigación, cítelo con los metadatos de
+  este archivo e indique el commit utilizado.
+
+title: >-
+  AuditMayorista: instrumento de auditoría digital automatizada del desarrollo
+  funcional de plataformas de comercio electrónico mayorista
+
+version: "6.0.0"
+date-released: "2026-09-29"
+
+type: software
+
+authors:
+  - family-names: Arce
+    given-names: Diego Enrique
+    affiliation: >-
+      Universidad Nacional de Misiones,
+      Facultad de Ciencias Económicas
+    email: diarce@fce.unam.edu.ar
+
+repository-code: "https://github.com/diarce/Auditoria"
+url: "https://tesismaen-xkoosnwvwtguclm8zcucui.streamlit.app/"
+license: GPL-3.0-or-later
+
+abstract: >-
+  Instrumento de auditoría digital automatizada del desarrollo funcional de
+  plataformas de comercio electrónico mayorista, desarrollado para la Tesis de
+  Maestría en Administración Estratégica de Negocios (UNaM, FCE). Releva 32
+  indicadores en ocho dimensiones (25 de relevamiento automático y 7 de
+  verificación manual) con una escala ordinal de 0 a 3, y compara perfiles por
+  dimensión sin construir un índice agregado. Aplica un protocolo ético de
+  acceso (robots.txt, demora entre solicitudes, solo peticiones GET) y excluye
+  del relevamiento a las plataformas cuyo robots.txt no autoriza las secciones
+  requeridas. Los informes identifican a las plataformas con alias. Ámbito:
+  tiendas mayoristas de bienes de consumo masivo del municipio de Posadas,
+  Misiones, Argentina.
+
+keywords:
+  - comercio electrónico mayorista
+  - auditoría digital
+  - desarrollo funcional
+  - capacidades dinámicas
+  - transformación digital
+  - Posadas
+  - Misiones
+  - Argentina
+  - Python
+
+preferred-citation:
+  type: thesis
+  title: >-
+    Factores estratégicos asociados al desarrollo del comercio
+    electrónico en tiendas mayoristas de bienes de consumo masivo
+    de Posadas, Misiones
+  authors:
+    - family-names: Arce
+      given-names: Diego Enrique
+      affiliation: >-
+        Universidad Nacional de Misiones,
+        Facultad de Ciencias Económicas
+  institution:
+    name: >-
+      Universidad Nacional de Misiones,
+      Facultad de Ciencias Económicas
+  thesis-type: Tesis de Maestría en Administración Estratégica de Negocios
+  year: 2026

@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /cuenta/
+Crawl-delay: 2

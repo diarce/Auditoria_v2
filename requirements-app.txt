@@ -1,0 +1,3 @@
+# Interfaz gráfica local (opcional)
+-r requirements.txt
+streamlit>=1.50
